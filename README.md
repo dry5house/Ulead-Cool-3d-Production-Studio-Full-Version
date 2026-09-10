@@ -239,4 +239,4 @@ This repository serves as the official landing page for Ulead COOL 3D Production
 **Get the most recent version of Ulead COOL 3D Production Studio today!**
 
 ---
-**Last updated:** 2026-09-10 05:28:20 UTC
+**Last updated:** 2026-09-10 10:21:24 UTC
